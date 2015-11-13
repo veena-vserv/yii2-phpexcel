@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "yantze\\phpexcel\\": ""
+            "yantze\\helper\\phpexcel\\": ""
         }
     }
 }

@@ -15,7 +15,7 @@ use yii\base\Exception;
  * @property \PHPExcel _objPHPExcel
  * @property string _savePath
  * @property array _suffix
- * @package app\helpers
+ * @package yantze\helper
  */
 class Excel
 {
