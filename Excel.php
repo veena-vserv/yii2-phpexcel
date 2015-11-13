@@ -25,8 +25,8 @@ class Excel
     private $_savePath = "attach"; //保存目录
 
     private $_properties = [
-        'creator' => "dataPlatform",
-        'lastModifiedBy' => "dataPlatform",
+        'creator' => "admin",
+        'lastModifiedBy' => "admin",
         'title' => "Office 2007 XLSX Document",
         'subject' => "Office 2007 XLSX Document",
         'description' => "Document for Office 2007 XLSX, generated using PHP classes.",
