@@ -61,7 +61,7 @@ $name = 'filename';
 $excel = new \yantze\helper\Excel();
 $curRow = 1;
 
-if (count($head['fhead']) > 0 || $head['fhead'][0]['name'] != '') {
+if (count($head['fhead']) > 1 || $head['fhead'][0]['name'] != '') {
 	$excel->addAdvancedMenu($head['fhead'], $curRow++);
 }
 
